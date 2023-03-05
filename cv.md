@@ -13,14 +13,17 @@ tel. +48579552585
 >> C#
 >> HTML5/CSS3
 >> JavaScript (basic)
+
+---
 ## Database
 >> MySQL
 >> MongoDB
 
+---
 ## Code example:
 
-### Kata 6 Data Reverse
-
+**Kata 6 Data Reverse.**
+We received an array of segments that had a length of 8 bits. It was necessary to return a segment of these bits in the opposite direction
 ```
 function dataReverse(data) {
   const reversed = [];
@@ -31,7 +34,7 @@ function dataReverse(data) {
   return reversed;
 }
 ```
-
+---
 
 ## Languages
 >> Polski B1

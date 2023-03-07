@@ -8,6 +8,12 @@
     
 }
 
+h3 {
+    font-size: 20px;
+    color: #8BDEA3;
+    font-weight: 600;
+    margin: 10px 0 10px 0;
+}
 
 .header{
     width: 100%;
@@ -75,11 +81,12 @@
     margin-top: 30px;
 }
 
-.about_me-title{
-    font-size: 20px;
-    color: #8bdee6;
-    font-weight: 600;
-    margin: 10px 0 10px 0;
+
+
+.code p {
+    color: #fff;
+    font-size: 16px;
+    letter-spacing: 1px;
 }
 
 .about_me-subtitle{
@@ -91,17 +98,9 @@
 
 .other{
     margin-top: 30px;
-    
-    
 }
 
-.program_len-title{
-    font-size: 20px;
-    color: #8bdee6;
-    font-weight: 600;
-    margin: 10px 0 10px 0;
 
-}
 
 .program_len-subtitle{
     color: #fff;
@@ -110,12 +109,6 @@
 }
 
 
-.datebase-title{
-    font-size: 20px;
-    color: #8bdee6;
-    font-weight: 600;
-    margin: 10px 0 10px 0;
-}
 
 
 .datebase-subtitle{

@@ -76,7 +76,7 @@ h3 {
 }
 
 .about_me{
-    width: 500px;
+    width: 40%;
     text-align: left;
     margin-top: 30px;
 }
@@ -97,10 +97,9 @@ h3 {
 }
 
 .other{
+    width: 23%;
     margin-top: 30px;
 }
-
-
 
 .program_len-subtitle{
     color: #fff;
@@ -109,23 +108,15 @@ h3 {
 }
 
 
-
-
 .datebase-subtitle{
     color: #fff;
     margin-left: 20px;
 }
 
 
-.purp_leng{
-    display: flex;
-    justify-content: space-between;
-    padding: 65px 0 30px 0;
-}
-
 .education_title,
 .contanct-phone,
-.purpose-title,
+
 .languages-title{
     font-size: 20px;
     color: #8bdee6;
@@ -138,12 +129,6 @@ h3 {
 }
 
 
-.purpose-subtitle{
-    color: #fff;
-    font-size: 16px;
-    letter-spacing: 1px;
-    
-}
 
 .languages-subtitle{
     color: #fff;
@@ -179,10 +164,21 @@ h3 {
     line-height: 30px;
 }
 
+.code-and-lan{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+
 .code-about-cata{
 
 }
 
 .code{
-    width: 40%;
+    width: 500px;
+}
+
+.code-exam{
+    background: rgba(7, 5, 77, 0.453);
+    color: #8BDEA3;
 }

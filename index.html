@@ -74,9 +74,17 @@
             <p>
                 We received an array of segments that had a length of 8 bits. It was necessary to return a segment of these bits in the opposite direction
             </p>
-            <code>
-
-            </code>
+            <pre>
+                <code class="code-exam"> 
+                    function dataReverse(data) {
+                    const reversed = [];
+                    for (let i = 0; i &lt; data.length; i += 8) {
+                      const segment = data.slice(i, i + 8);
+                      reversed.unshift(...segment);
+                    }
+                    return reversed;
+                  }</code>
+                </pre>
         </div>
         <div class="purp_leng">
                 <div class="purpos">
